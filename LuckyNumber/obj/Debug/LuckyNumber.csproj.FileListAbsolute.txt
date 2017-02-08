@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\LuckyNumber\LuckyNumber\bin\Debug\LuckyNumber.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\LuckyNumber\LuckyNumber\bin\Debug\LuckyNumber.exe
+c:\users\texas\documents\visual studio 2015\Projects\LuckyNumber\LuckyNumber\bin\Debug\LuckyNumber.pdb
+c:\users\texas\documents\visual studio 2015\Projects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.exe
+c:\users\texas\documents\visual studio 2015\Projects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.pdb
+C:\Users\texas\Documents\Visual Studio 2015\Projects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.csprojResolveAssemblyReference.cache
